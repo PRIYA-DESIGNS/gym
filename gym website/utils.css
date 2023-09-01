@@ -1,0 +1,44 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexcol {
+    flex-direction: column;
+}
+
+.aligncenter {
+    align-items: center;
+}
+
+.alignend {
+    align-content: flex-end;
+}
+.justifye{
+    justify-content: space-evenly;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-end {
+    justify-content: end;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
+.nowrap {
+    flex-wrap: nowrap;
+}
+
+.fw {
+    font-weight: 676;
+}
